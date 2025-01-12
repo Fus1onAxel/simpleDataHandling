@@ -14,7 +14,7 @@ This project is a C++ application that manages a database of students. It suppor
 
 ## Prerequisites
 
-- A C++ compiler (GCC, Clang, MSVC, etc.) with support for C++11 or later.
+- A C++ compiler (GCC, Clang, MSVC, etc.)
 
 ## How to Build and Run
 
